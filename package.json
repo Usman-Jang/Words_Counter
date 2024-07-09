@@ -1,6 +1,6 @@
 {
   "name": "words_counter13",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Words_Counter",
   "main": "index.js",
   "type": "module",
